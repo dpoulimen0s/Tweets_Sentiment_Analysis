@@ -3,6 +3,7 @@
 This repository contains a Jupyter Notebook for sentiment analysis of tweets using machine learning and deep learning techniques. The goal is to classify tweets into sentiment categories, such as positive, negative, or neutral, based on their textual content. The analysis includes comprehensive data preprocessing, feature engineering, model training, and evaluation.
 
 ## Features
+![Features](Sentiment_Distribution.png)
 
 ### Data Preprocessing
 - **Data Cleaning**:
@@ -60,5 +61,7 @@ This repository contains a Jupyter Notebook for sentiment analysis of tweets usi
 - **ROC-AUC Curve**: Compares the sensitivity and specificity of different models.
 
 ---
+
+![Example Visualizations](Conf_matrix.png)
 
 This notebook offers a complete pipeline for sentiment analysis, combining robust preprocessing, advanced modeling, and insightful visualizations. It serves as a great starting point for exploring text classification tasks.
